@@ -19,12 +19,12 @@ contact:
     phone: +252 617 989391
     emergency: +252 615 509888
     email: info@kismayomed.com
-    address: Via Afmadow, Alanley<br> Kismayo - Somalia
+    address: Suuq Weyne, Alanley<br> Kismayo - Somalia
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 06:00 – 20:00
+saturday: 6:00 – 21:00
+sunday: 06:00 – 20:30
 
 # Testimonials
 testimonials:
@@ -37,15 +37,15 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+facebook: http://facebook.com/kismayomed
+twitter: http://twitter.com/kismayomed
+instagram: http://instagram.com/kismayomed
+youtube: http://youtube.com/kismayomed
+skype: skype:kismayomed?userinfo
 feed: yes
 
 # Footer
-copyright: © 2016 Kismayo Medical Center - All rights reserved
+copyright: © 2015 Kismayo Medical Center - All rights reserved
 
 # Build settings
 markdown: kramdown
